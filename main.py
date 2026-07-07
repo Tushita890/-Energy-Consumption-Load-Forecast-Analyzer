@@ -1,3 +1,5 @@
+# following file tushi67.csv contains the data this particular code shous data visualization for energy consumption load forecast analyzer 
+
 import pandas as pd 
 df=pd.read_csv(r"C:\Users\HP\Desktop\tushi67.csv")
 print(df)
